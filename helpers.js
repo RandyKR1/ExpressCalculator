@@ -23,6 +23,7 @@ function findMode(arr) {
 
   return +mostFrequent;
 }
+ 
 
 
 
